@@ -54,14 +54,15 @@ This project aims to predict book prices based on metadata such as title, genre,
 ---
 
 ## 📂 Project Structure
+```text
 
-|── data/ # Raw and processed book datasets
-|── notebooks/ # Jupyter notebooks with experiments
-|── models/ # Trained models and evaluation
-|── results/ # Plots and performance reports
+├── data/ # Raw and processed book datasets
+├── notebooks/ # Jupyter notebooks with experiments
+├── models/ # Trained models and evaluation
+├── results/ # Plots and performance reports
 └── README.md # Project documentation
 
----
+```
 
 ## 🛠️ Tech Stack
 
